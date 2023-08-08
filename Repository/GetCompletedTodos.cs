@@ -2,7 +2,7 @@ using Microsoft.EntityFrameworkCore;
 using TodoApi.Data;
 using TodoApi.DTOs;
 
-namespace TodoApi.Services
+namespace TodoApi.Repository
 {
     public static class GetCompletedTodos
     {

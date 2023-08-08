@@ -1,7 +1,7 @@
 using TodoApi.Data;
 using TodoApi.Models;
 
-namespace TodoApi.Services
+namespace TodoApi.Repository
 {
     public static class UpdateTodo
     {
